@@ -1,5 +1,6 @@
 cac buoc de chay
 
-npm install
+cd MEAN
 cd my-app
+npm install
 npm start
